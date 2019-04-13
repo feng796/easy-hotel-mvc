@@ -1,0 +1,14 @@
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\bin\Debug\netcoreapp2.2\Easy.Hotel.deps.json
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\bin\Debug\netcoreapp2.2\Easy.Hotel.runtimeconfig.json
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\bin\Debug\netcoreapp2.2\Easy.Hotel.runtimeconfig.dev.json
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\bin\Debug\netcoreapp2.2\Easy.Hotel.dll
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\bin\Debug\netcoreapp2.2\Easy.Hotel.pdb
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.csprojAssemblyReference.cache
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.csproj.CoreCompileInputs.cache
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.RazorAssemblyInfo.cache
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.RazorAssemblyInfo.cs
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.AssemblyInfoInputs.cache
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.AssemblyInfo.cs
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.RazorTargetAssemblyInfo.cache
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.dll
+C:\Users\fwyyy\OneDrive\Documents\AMIS3610\easy-hotel-mvc\Easy.Hotel\obj\Debug\netcoreapp2.2\Easy.Hotel.pdb
